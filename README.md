@@ -9,6 +9,7 @@ The only major game play changes include:
 Aesthetic Changes:
 * Added a Game Over Button
 * Changed background color
+* Changed Font
 * Changed ship image, image was taken from:
 https://www.nicepng.com/ourpic/u2q8a9y3a9r5i1r5_vector-spaces-ship-8-bit-spaceship-sprite/
 * Changed alien image, image taken from video game, "Galaga"
