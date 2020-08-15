@@ -13,13 +13,13 @@ Aesthetic Changes:
 https://www.nicepng.com/ourpic/u2q8a9y3a9r5i1r5_vector-spaces-ship-8-bit-spaceship-sprite/
 * Changed alien image, image taken from video game, "Galaga"
 
-<h2> Game Description 👽 <h2>
+## Game Description 👽
   
 Python 3 is required.
 
 To move the ship right or left, use the corresponding arrow keys and shoot bullets using the spacebar. When the game begins, a fleet of aliens appears at the top and moves across and down the screen. After each fleet is destroyed, a new fleet appears that will be faster than the previous one. Once an alien reaches the bottom of the screen, or hits the player's ship with a bullet, then the player loses a ship. Once the player loses all his ships, the game is over.
 
-<h2> Cloning the game for yourself 🎮 <h2>
+## Cloning the game for yourself 🎮
 
 ```
 $ git clone https://github.com/bryanlds/Alien-Invasion.git
