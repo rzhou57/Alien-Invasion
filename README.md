@@ -5,6 +5,7 @@ This game, Alien Invasion, is created after the popular "Space Invaders". Most o
 The only major game play changes include:
 * Enemies are now able to shoot back
 * Reduced the number of lives by one to make gameplay more challenging
+* Added a feature that saves the high score so it isn't reset each time you start the game
 
 Aesthetic Changes:
 * Added a Game Over Button
